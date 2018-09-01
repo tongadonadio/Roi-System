@@ -1,0 +1,11 @@
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+/roi-authentication-proxy/nbproject/private/
+/goliath/nbproject/private/
+/roi-planner/nbproject/private/
+roi-authentication-proxy/.metadata/
